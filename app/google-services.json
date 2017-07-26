@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "913602863586",
+    "firebase_url": "https://fir-autenticacao-b38f6.firebaseio.com",
+    "project_id": "fir-autenticacao-b38f6",
+    "storage_bucket": "fir-autenticacao-b38f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913602863586:android:5f751e866ca87d77",
+        "android_client_info": {
+          "package_name": "com.example.avelino.firebaseautenticacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913602863586-2qotp903bt1re5bi07b7bctth7df45so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnbgpHki3Nn0KjiHUo5CWI2NUnSdcjIaw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
